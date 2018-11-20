@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grabar Video</string>
+    <string name="grabar">Grabar</string>
+    <string name="ruta">El archivo se encuentra en: </string>
+    <string name="faltacamara">No hay un controlador de cámara instalado</string>
+    <string name="faltanpermisos">Sin los permisos no se puede almacenar el video</string>
+</resources>

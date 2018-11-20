@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Record video</string>
+    <string name="grabar">Record</string>
+    <string name="ruta">"The file is in: "</string>
+    <string name="faltacamara">There´s no camera controller installed</string>
+    <string name="faltanpermisos">Without permissions, the video can´t be stored</string>
+</resources>
